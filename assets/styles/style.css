@@ -1,0 +1,108 @@
+/* register design */
+#signupbody{
+    background-color: #173f5f;
+}
+#circle{
+    background-color: #20639b;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin: 1px 43px;
+}
+#halfcircle{
+    background-color: #20639b;
+    height: 50px;
+    width: 85px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin: 4px 27px;
+}
+#profile{
+background-color: #3caea3;
+height: 140px;
+width: 140px;
+border-radius: 100px;
+padding: 10px 5px 1px 5px;
+margin: 5px 125px;
+}
+#formregister{
+    background-color: #c1a987;
+    width: 400px;
+    text-align: center;
+    margin: 35px 550px;
+    padding: 40px 1px;
+    border-radius: 10px;
+}
+#bio{
+    height: 40px;
+    width: 250px;
+}
+#labelbio{
+    text-align: left;
+    width: 255px;
+    margin: 1px 73px;
+}
+#registerbutton{
+    background-color: #3c990c;
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-size: 14px;
+}
+/* login design */
+#loginbody{
+    background-color: #264653;
+}
+#halfcirclelogin{
+    background-color: #00577f;
+    width: 25px;
+    height: 50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    height: 23px;
+    padding: 10px 12px 0px 10px;
+    margin: 0px 35px;
+}
+#loginprofile{
+    background-color: #e76f51;
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    padding: 20px 10px 0px 10px;
+    margin: 5px 125px;
+}
+#littlehalfcircle{
+    background-color: #e76f51;
+    width: 25px;
+    height: 23px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin: 0px 1px;
+
+}
+#square{
+    background-color: #00577f;
+    width: 65px;
+    height: 35px;
+    border-radius: 5px;
+    margin: 0px 26px;
+    padding-top: 15px;
+}
+#star{
+    font-size: 20px;
+}
+#formlogin{
+    background-color: #2a9d8f;
+    text-align: center;
+    width: 400px;
+    margin: 85px 550px;
+    padding: 40px 1px;
+    border-radius: 10px;
+}
+#loginbutton{
+    width: 70px;
+    height: 30px;
+    font-size: 14px;
+    color: white;
+    background-color: #0288d1;
+}
